@@ -7,3 +7,4 @@ A learning exercise
 * Rails version: 4.0.1
 
 * Additional gems:
+    jquery-ui-rails
